@@ -1,6 +1,6 @@
 Hi, I am Tega 
 
-I am a Senior Cloud Engineer with experience in Microsoft Entra ID, Azure Security, Identity and Access Management (IAM), Hybrid Identity, and Cloud Security.
+I am a Cloud Engineer with experience in Microsoft Entra ID, Azure Security, Identity and Access Management (IAM), Hybrid Identity, and Cloud Security.
 
 Over the years, I have worked on identity management, cloud administration, access governance, authentication, and security-related projects across different environments. I enjoy solving technical challenges, learning new technologies, and sharing knowledge with others in the cybersecurity and cloud communities.
 
